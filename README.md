@@ -1,21 +1,30 @@
 # Crypto Chain
 
-Sample .NET backend project focused on cryptocurrency management workflows.
+[![License](https://img.shields.io/github/license/pauloprsdesouza/crypto-chain)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/pauloprsdesouza/crypto-chain)](https://github.com/pauloprsdesouza/crypto-chain/commits)
+[![Top Language](https://img.shields.io/github/languages/top/pauloprsdesouza/crypto-chain)](https://github.com/pauloprsdesouza/crypto-chain)
 
-## What this repository contains
-- API/service code for crypto-related operations
-- Solution and project files under `src/`
+## Overview
+Sample .NET project for cryptocurrency management workflows.
 
-## Tech stack
+## Tech Stack
+- C#
 - C# / .NET
 
-## Project structure
+## Repository Structure
 - `src/` - main source code
 
-## Getting started
+## Quick Start
 1. Install a compatible .NET SDK.
-2. Restore dependencies from the solution/project under `src/`.
-3. Build and run the application from the project directory.
+2. Restore dependencies from the solution/project.
+3. Build and run locally.
 
-## Notes
-Repository kept as a demo/reference implementation.
+## Validation
+- Run local build and tests where available.
+- Validate main workflows/endpoints before opening pull requests.
+
+## Contributing
+See `CONTRIBUTING.md` for contribution and PR guidelines.
+
+## Status
+Actively maintained by Paulo Roberto de Souza.
